@@ -1,0 +1,86 @@
+body{
+    color: #1e3935;
+}
+
+#collapseTwo{
+    z-index: 1;
+}
+#nav {
+    height: 72px;
+    background: #fff;
+    padding-top: 0;
+    border: none;
+    box-shadow: inset rgba(256, 254, 254, .61);
+    box-shadow: 1px 1px 5px #8591a8;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    border-bottom: 1px solid rgb(237, 237, 237);
+
+
+}
+.mesIcon{
+    z-index: 1;
+    margin-top: 100px;
+    float: right;
+    margin-right: 30px;
+    padding: 12px;
+    background-color: green;
+    border-radius: 40px;
+}
+
+.logoLR {
+
+    height: 47px;
+}
+
+.logoDiv {
+    padding-right: 40px;
+}
+
+
+
+.navItemA {
+    text-decoration: none;
+    font-size: 11px;
+    font-family: 'Avenir Next LT Pro', Arial, Helvetica, dans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #1e3935;
+
+    letter-spacing: .1pc;
+    font-weight: bold;
+    height: 2px;
+    padding-top: 32px;
+    padding-bottom: 28px;
+    cursor: pointer;
+
+}
+
+.navItemA:hover {
+    background-color: #e9ecec;
+
+}
+
+#searchA {
+    padding-top: 32px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 28px;
+    font-size: 16px;
+}
+
+#locationA {
+    padding-top: 32px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 23px;
+    font-size: 16px;
+}
+.text-col-jef{
+    color:#1e3935;
+}
+.jef-icon{
+    border-radius: 60px;
+    overflow: hidden;
+}

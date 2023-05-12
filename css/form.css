@@ -1,0 +1,13 @@
+
+
+.form-group.error input{
+    color: red;
+visibility: visible;
+}
+.form-group.success input{
+    visibility: hidden;
+}
+
+.form-group span{
+ color: red;
+}

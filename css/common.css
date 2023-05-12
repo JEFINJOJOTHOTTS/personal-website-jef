@@ -1,0 +1,51 @@
+
+body {
+    font-family: 'Nimbus Sans L', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #0C121C;;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.flexR {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.flexC {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.s2{
+    background-color: #f4f5f5;
+}
+
+.cursor-pointer{
+    cursor: pointer;}
+
+
+    .image {
+        height: 150px;
+        cursor: pointer;
+    
+    }
+    
+    
+    
+    .image:hover {
+        
+        background-color: #0c121c;
+        opacity: .8;
+    }
